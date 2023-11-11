@@ -1,4 +1,4 @@
-const api = "http://localhost:3000";
+const api = "https://nsd-server.onrender.com";
 
 export default {
     api
